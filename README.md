@@ -2,6 +2,8 @@
 
 <img src="./assets/banner.gif" width="100%" alt="Banner" />
 
+<br />
+<br />
   <!-- Fixed Markdown Typing SVG Banner -->
   <a href="https://linkedin.com/in/shubham-saini-23619a274">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vcenter=true&width=700&lines=Hi+there!+I'm+Shubham+Saini;Full-Stack+Developer+and+GenAI+Architect;Building+Agentic+RAG+and+GraphRAG+Systems;950%2B+DSA+Problems+Solved" alt="Typing SVG" />
